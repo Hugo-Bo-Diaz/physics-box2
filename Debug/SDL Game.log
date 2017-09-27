@@ -1,0 +1,13 @@
+﻿  ModuleSceneIntro.cpp
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulesceneintro.cpp(45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulesceneintro.cpp(47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulesceneintro.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ModulePhysics.cpp
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulephysics.cpp(35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulephysics.cpp(166): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulephysics.cpp(183): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+c:\users\hugobd\downloads\physics2_class2_-_handout\physics2_class2 - handout\modulephysics.cpp(188): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\cmath(131): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  Generating Code...
+  SDL Game.vcxproj -> C:\Users\hugobd\Downloads\Physics2_class2_-_handout\Physics2_class2 - handout\Debug\2D Physics - class 2.exe
+  SDL Game.vcxproj -> C:\Users\hugobd\Downloads\Physics2_class2_-_handout\Physics2_class2 - handout\Debug\2D Physics - class 2.pdb (Full PDB)
